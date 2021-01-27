@@ -35,6 +35,7 @@ body {
 	font-weight: 300;
 	color: #ffffff;
 	margin-left: 2px;
+	user-select: none;
 }
 
 .header-bar-nav {
@@ -54,6 +55,7 @@ body {
 	padding: 0 15.5px;
 	transition: color 0.5s linear;
 	cursor: pointer;
+	user-select: none;
 }
 
 .nav-list__item:hover {
